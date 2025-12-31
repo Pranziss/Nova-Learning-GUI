@@ -48,7 +48,7 @@ Stores:
 * UI may change and improve over time
 * Calendar feature was removed
 * Focus is on system logic and functionality
-
+* About the chatbot that may not work since it was integrated locally but if you wish to have one then check on my other project as to setting it up since the ai that was used for chatbot was integrated from my previous project
 ---
 
 ## 👤 Created By
