@@ -6,6 +6,12 @@ Built mainly for **educational purposes**.
 
 ---
 
+## 🎞️ Demo Preview
+
+![Chatbot Demo](demo.gif)
+
+---
+
 ## ✨ Features
 
 * 🏠 **Main System / Dashboard**
