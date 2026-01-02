@@ -59,7 +59,7 @@ Stores:
 
 ## 👤 Created By
 
-**Franz Angelo**
+**Franz Angelo / Pranziss**
 2nd Year College Student | Developer
 
 ---
