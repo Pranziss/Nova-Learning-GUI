@@ -1,8 +1,12 @@
 # Nova Learning Center
 
-A simple **mini learning system** focused on quizzes and user management. This project highlights the **core functionality** of a learning platform rather than UI design.
+A simple **mini learning system** focused on quizzes and user management.  
+This project emphasizes **core system functionality and logic** rather than UI design.
 
-Built mainly for **educational purposes**.
+Built primarily for **educational and learning purposes**.
+
+> The goal of this project is to explore backend logic, database design,
+> and feature flow commonly found in learning platforms.
 
 ---
 
@@ -14,54 +18,79 @@ Built mainly for **educational purposes**.
 
 ## ✨ Features
 
-* 🏠 **Main System / Dashboard**
-  * Acts as the main hub after login, giving access to dashboards and quizzes shows simplified data for users to view.
+### 🏠 Main System / Dashboard
+- Serves as the central hub after login
+- Provides access to quizzes, dashboards, and summarized user data
 
-* 📊 **Dashboards**
-  * **Student / Instructors**: Create quizzes, add questions, manage quiz dataview available quizzes, take quizzes, and submit answers
-  * **Chatbot**: Can assist user by asking questions related to their problem.
-  * **Profile**: Displays users details and their personal overall statistics that shows everything they have done.
+### 📊 Dashboards
+- **Students / Instructors**
+  - Create quizzes and questions
+  - View available quizzes
+  - Take quizzes and submit answers
+- **Chatbot**
+  - Assists users by responding to basic questions
+- **Profile**
+  - Displays user details and overall activity statistics
 
-* 📝 **Quiz System**
-
-  * Create multiple-choice quizzes
-  * Take quizzes interactively
-  * Automatic score checking and saving
+### 📝 Quiz System
+- Create multiple-choice quizzes
+- Take quizzes interactively
+- Automatic score checking and result storage
 
 ---
 
 ## 🗄️ Database
 
-Stores:
-
-* User accounts
-* Quiz details
-* Questions and answers
-* Quiz results and scores
+The system stores:
+- User accounts
+- Quiz metadata
+- Questions and answers
+- Quiz attempts, results, and scores
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Java
-* Java Swing (GUI)
-* MySQL / SQL Database
+- **Java**
+- **Java Swing** (GUI)
+- **MySQL / SQL Database**
 
 ---
 
 ## ℹ️ Notes
 
-* UI may change and improve over time
-* Calendar feature was removed
-* Focus is on system logic and functionality
-* About the chatbot that may not work since it was integrated locally but if you wish to have one then check on my other project as to setting it up since the ai that was used for chatbot was integrated from my previous project
+- UI may change and improve over time
+- Calendar feature was removed during development
+- The main focus is on **system logic and functionality**
+- The chatbot feature may not function out-of-the-box, as it was integrated locally
+  using components from another project
+
+---
+
+## 📜 Credits & Licensing
+
+This project makes use of open-source tools and libraries where applicable.  
+All third-party components retain their original licenses.
+
+This project itself is released under the **MIT License**.  
+See the `LICENSE` file for more details.
+
+---
+
+## ⚠️ Disclaimer
+
+This project was developed for **educational and experimental purposes**.
+
+Features such as the chatbot may have limitations and are not intended for
+production or critical use. Always verify important information independently.
+
 ---
 
 ## 👤 Created By
 
-**Franz Angelo / Pranziss**
+**Franz Angelo / Pranziss**  
 2nd Year College Student | Developer
 
 ---
 
-📌 *NOVA Learning Center – a simple quiz-based learning system.*
+📌 *Nova Learning Center — a simple quiz-based learning system focused on logic and learning.*
